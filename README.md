@@ -6,6 +6,17 @@ Ce dépôt contient les slides, les bases de données, et le jupyter notebook po
 
 ## Contenu:
 
+I) Slides:
+
+- Qu'est ce qu'un réseau? Terminologie & Théorie des graphes
+- Pourquoi étudier la structure des interactions? Origine du concept
+- Calculs & métriques de base
+- Exemples d'application
+
+II) Script:
+
+Cas d'application sur deux réseaux d'éditions de pages wikipédia. Visualisation et calcul des métriques de base.
+
 ## Installation:
 
 La pratique se fait à l'aide du notebook Sript.ipynb. Pour qu'il fonctionne il vous faut une installation fonctionelle du language R:
